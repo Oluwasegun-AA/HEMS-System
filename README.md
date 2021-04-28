@@ -1,2 +1,2 @@
 # HEMS-System
-Heuristic Based Home Energy Management System. Implemented with C++
+Heuristics Based Home Energy Management System.
